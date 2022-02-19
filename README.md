@@ -1,2 +1,3 @@
 # CTFs
-Writeups of some challs I was able to do 
+Writeups of some CTF challenges
+
